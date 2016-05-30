@@ -43,7 +43,6 @@
                 </includes>
             </resource>
         </resources>
-        <!--
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -58,11 +57,10 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.3.1</version>
                 <configuration>
-                    <outputDirectory>D:\Program Files (x86)\Mojang Games\Minecraft\Server Development\Server\plugins</outputDirectory>
+                    <outputDirectory>..\Program Files (x86)\Mojang Games\Minecraft\Server Development\_2016_REFACTOR\Server\plugins</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
-        -->
     </build>
 
 </project>
