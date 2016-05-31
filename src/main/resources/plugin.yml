@@ -1,0 +1,18 @@
+name: ScreenCraft # Displayed name of the Plugin ingame
+version: 0.0.1a # Release version of the plugin
+description: This is the official plugin specifically made for the ScreenCraft Server. # Plugin description
+authors: [IPatGamer, LegendGamer_] # Credits
+website: mc.splitscreen.org # Official Plugin website
+
+main: org.splitscreen.mc.ScreenCraft # Java path to main class for plugin
+database: false # Doesn't work with database
+
+depend: [] # Isn't depending on any plugin
+softdepend: [] # Isn't soft-depending on any plugin
+loadbefore: [] # Doesn't have plugins dependent from this
+
+load: POSTWORLD # Loads after worlds are loaded
+prefix: ScreenCraft # Logger prefix for plugin
+
+commands: [] # No commands so far
+permissions: [] # No permissions so far
