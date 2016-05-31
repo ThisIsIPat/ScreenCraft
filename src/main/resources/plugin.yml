@@ -14,5 +14,5 @@ loadbefore: [] # Doesn't have plugins dependent from this
 load: POSTWORLD # Loads after worlds are loaded
 prefix: ScreenCraft # Logger prefix for plugin
 
-commands: [] # No commands so far
-permissions: [] # No permissions so far
+# commands: No commands so far
+# permissions: No permissions so far
